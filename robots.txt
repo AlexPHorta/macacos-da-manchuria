@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://macacosdamanchuria.com.br/sitemap.xml
