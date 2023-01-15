@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Macacos da Manchúria - Website Oficial</title>
     <link href="https://macacosdamanchuria.com.br/feed.xml" rel="self" />
     <link href="https://macacosdamanchuria.com.br" />
-    <updated>2022-11-26T11:37:45-03:00</updated>
+    <updated>2023-01-15T11:48:44-03:00</updated>
     <author>
         <name>Macacos da Manchúria</name>
     </author>
@@ -16,23 +16,24 @@
         </author>
         <link href="https://macacosdamanchuria.com.br/multimidia/"/>
         <id>https://macacosdamanchuria.com.br/multimidia/</id>
+        <media:content url="https://macacosdamanchuria.com.br/media/posts/8/Multimidia-Hero-Site-Small.jpg" medium="image" />
 
-        <updated>2022-11-26T11:37:45-03:00</updated>
+        <updated>2023-01-15T11:48:44-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://macacosdamanchuria.com.br/media/posts/8/Multimidia-Hero-Site-2.jpg" alt="" />
+                        <img src="https://macacosdamanchuria.com.br/media/posts/8/Multimidia-Hero-Site-Small.jpg" alt="" />
                     Exuviae Persona - Lyric Video Luz Negra - Lyric Video Wallpapers Bessa - Wallpaper
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://macacosdamanchuria.com.br/media/posts/8/Multimidia-Hero-Site-2.jpg" alt="" />
+                    <p><img src="https://macacosdamanchuria.com.br/media/posts/8/Multimidia-Hero-Site-Small.jpg" class="type:primaryImage" alt="" /></p>
                 <h2>Exuviae Persona - Lyric Video</h2>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/szl-Wr5yuMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <h2>Luz Negra - Lyric Video</h2>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/nWnUybD03VE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <h2>Wallpapers</h2>
-<figure ><a href="https://macacosdamanchuria.com.br/media/files/bessa-wallpaper.png" target="_blank" rel="noopener noreferrer"><figure class="post__image"><img loading="lazy"  src="https://macacosdamanchuria.com.br/media/posts/8/Wallpaper.png" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/8/responsive/Wallpaper-xs.png 300w ,https://macacosdamanchuria.com.br/media/posts/8/responsive/Wallpaper-sm.png 480w ,https://macacosdamanchuria.com.br/media/posts/8/responsive/Wallpaper-md.png 768w ,https://macacosdamanchuria.com.br/media/posts/8/responsive/Wallpaper-lg.png 1024w ,https://macacosdamanchuria.com.br/media/posts/8/responsive/Wallpaper-xl.png 1360w ,https://macacosdamanchuria.com.br/media/posts/8/responsive/Wallpaper-2xl.png 1600w"  alt="Macacos da Manchúria - Bessa - Wallpaper" width="5472" height="3648"></figure></a>
+<figure ><a href="https://macacosdamanchuria.com.br/media/files/bessa-wallpaper.png" target="_blank" rel="noopener noreferrer"><figure class="post__image"><img loading="lazy"  src="https://macacosdamanchuria.com.br/media/posts/8/Wallpaper.png" alt="Macacos da Manchúria - Bessa - Wallpaper" width="5472" height="3648" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/8/responsive/Wallpaper-xs.png 300w ,https://macacosdamanchuria.com.br/media/posts/8/responsive/Wallpaper-sm.png 480w ,https://macacosdamanchuria.com.br/media/posts/8/responsive/Wallpaper-md.png 768w ,https://macacosdamanchuria.com.br/media/posts/8/responsive/Wallpaper-lg.png 1024w ,https://macacosdamanchuria.com.br/media/posts/8/responsive/Wallpaper-xl.png 1360w ,https://macacosdamanchuria.com.br/media/posts/8/responsive/Wallpaper-2xl.png 1600w"></figure></a>
 <figcaption >Bessa - Wallpaper</figcaption>
 </figure>
             ]]>
@@ -45,6 +46,7 @@
         </author>
         <link href="https://macacosdamanchuria.com.br/bessa-album/"/>
         <id>https://macacosdamanchuria.com.br/bessa-album/</id>
+        <media:content url="https://macacosdamanchuria.com.br/media/posts/7/Bessa-Hero-Site.jpg" medium="image" />
 
         <updated>2022-09-06T23:10:52-03:00</updated>
             <summary>
@@ -55,10 +57,10 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://macacosdamanchuria.com.br/media/posts/7/Bessa-Hero-Site.jpg" alt="" />
+                    <p><img src="https://macacosdamanchuria.com.br/media/posts/7/Bessa-Hero-Site.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://macacosdamanchuria.com.br/media/posts/7/Bessa-2.jpg" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/7/responsive/Bessa-2-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/7/responsive/Bessa-2-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/7/responsive/Bessa-2-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/7/responsive/Bessa-2-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/7/responsive/Bessa-2-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/7/responsive/Bessa-2-2xl.jpg 1600w"  height="1024" width="1024" alt="" />
+      <img loading="lazy" src="https://macacosdamanchuria.com.br/media/posts/7/Bessa-2.jpg" height="1024" width="1024" alt=""  sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/7/responsive/Bessa-2-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/7/responsive/Bessa-2-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/7/responsive/Bessa-2-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/7/responsive/Bessa-2-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/7/responsive/Bessa-2-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/7/responsive/Bessa-2-2xl.jpg 1600w">
       
     </figure>
 
@@ -155,6 +157,7 @@
         </author>
         <link href="https://macacosdamanchuria.com.br/luz-negra-single/"/>
         <id>https://macacosdamanchuria.com.br/luz-negra-single/</id>
+        <media:content url="https://macacosdamanchuria.com.br/media/posts/6/Luz-Negra-2.jpg" medium="image" />
 
         <updated>2022-09-06T22:47:19-03:00</updated>
             <summary>
@@ -165,10 +168,10 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://macacosdamanchuria.com.br/media/posts/6/Luz-Negra-2.jpg" alt="" />
+                    <p><img src="https://macacosdamanchuria.com.br/media/posts/6/Luz-Negra-2.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://macacosdamanchuria.com.br/media/posts/6/Luz-Negra.jpg" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/6/responsive/Luz-Negra-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/6/responsive/Luz-Negra-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/6/responsive/Luz-Negra-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/6/responsive/Luz-Negra-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/6/responsive/Luz-Negra-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/6/responsive/Luz-Negra-2xl.jpg 1600w"  height="1024" width="1024" alt="" />
+      <img loading="lazy" src="https://macacosdamanchuria.com.br/media/posts/6/Luz-Negra.jpg" height="1024" width="1024" alt=""  sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/6/responsive/Luz-Negra-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/6/responsive/Luz-Negra-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/6/responsive/Luz-Negra-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/6/responsive/Luz-Negra-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/6/responsive/Luz-Negra-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/6/responsive/Luz-Negra-2xl.jpg 1600w">
       
     </figure>
 
@@ -213,6 +216,7 @@
         </author>
         <link href="https://macacosdamanchuria.com.br/sangue-e-poeira-single/"/>
         <id>https://macacosdamanchuria.com.br/sangue-e-poeira-single/</id>
+        <media:content url="https://macacosdamanchuria.com.br/media/posts/5/Sangue-e-Poeira-2.jpg" medium="image" />
 
         <updated>2022-09-06T22:39:50-03:00</updated>
             <summary>
@@ -223,10 +227,10 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://macacosdamanchuria.com.br/media/posts/5/Sangue-e-Poeira-2.jpg" alt="" />
+                    <p><img src="https://macacosdamanchuria.com.br/media/posts/5/Sangue-e-Poeira-2.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://macacosdamanchuria.com.br/media/posts/5/Sangue-e-Poeira.jpg" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/5/responsive/Sangue-e-Poeira-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/5/responsive/Sangue-e-Poeira-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/5/responsive/Sangue-e-Poeira-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/5/responsive/Sangue-e-Poeira-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/5/responsive/Sangue-e-Poeira-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/5/responsive/Sangue-e-Poeira-2xl.jpg 1600w"  height="1024" width="1024" alt="" />
+      <img loading="lazy" src="https://macacosdamanchuria.com.br/media/posts/5/Sangue-e-Poeira.jpg" height="1024" width="1024" alt=""  sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/5/responsive/Sangue-e-Poeira-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/5/responsive/Sangue-e-Poeira-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/5/responsive/Sangue-e-Poeira-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/5/responsive/Sangue-e-Poeira-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/5/responsive/Sangue-e-Poeira-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/5/responsive/Sangue-e-Poeira-2xl.jpg 1600w">
       
     </figure>
 
@@ -271,6 +275,7 @@
         </author>
         <link href="https://macacosdamanchuria.com.br/lancamentos/"/>
         <id>https://macacosdamanchuria.com.br/lancamentos/</id>
+        <media:content url="https://macacosdamanchuria.com.br/media/posts/4/Macacos.jpeg" medium="image" />
 
         <updated>2022-09-06T23:12:34-03:00</updated>
             <summary>
@@ -281,12 +286,12 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://macacosdamanchuria.com.br/media/posts/4/Macacos.jpeg" alt="" />
+                    <p><img src="https://macacosdamanchuria.com.br/media/posts/4/Macacos.jpeg" class="type:primaryImage" alt="" /></p>
                 <table style="border: 0px; border-collapse: collapse; width: 100%; height: 765.234px;" border="0">
 <tbody>
 <tr style="height: 765.234px;">
 <td style="width: 100%; height: 765.234px;">
-<figure ><a href="https://macacosdamanchuria.com.br/bessa-album/"><figure class="post__image"><img loading="lazy"  src="https://macacosdamanchuria.com.br/media/posts/4//Bessa.jpg" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/4//responsive/Bessa-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/4//responsive/Bessa-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/4//responsive/Bessa-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/4//responsive/Bessa-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/4//responsive/Bessa-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/4//responsive/Bessa-2xl.jpg 1600w"  alt="Macacos da Manchúria - Bessa" width="1024" height="1024"></figure></a>
+<figure ><a href="https://macacosdamanchuria.com.br/bessa-album/"><figure class="post__image"><img loading="lazy"  src="https://macacosdamanchuria.com.br/media/posts/4//Bessa.jpg" alt="Macacos da Manchúria - Bessa" width="1024" height="1024" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/4//responsive/Bessa-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/4//responsive/Bessa-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/4//responsive/Bessa-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/4//responsive/Bessa-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/4//responsive/Bessa-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/4//responsive/Bessa-2xl.jpg 1600w"></figure></a>
 <figcaption >Bessa (Álbum)</figcaption>
 </figure>
 </td>
@@ -297,17 +302,17 @@
 <tbody>
 <tr>
 <td style="width: 33.2843%;">
-<figure ><a href="https://macacosdamanchuria.com.br/luz-negra-single/"><figure class="post__image"><img loading="lazy"  src="https://macacosdamanchuria.com.br/media/posts/4/Luz-Negra.jpg" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/4/responsive/Luz-Negra-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Luz-Negra-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Luz-Negra-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Luz-Negra-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Luz-Negra-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Luz-Negra-2xl.jpg 1600w"  alt="Macacos da Manchúria - Luz Negra (Single)" width="1024" height="1024"></figure></a>
+<figure ><a href="https://macacosdamanchuria.com.br/luz-negra-single/"><figure class="post__image"><img loading="lazy"  src="https://macacosdamanchuria.com.br/media/posts/4/Luz-Negra.jpg" alt="Macacos da Manchúria - Luz Negra (Single)" width="1024" height="1024" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/4/responsive/Luz-Negra-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Luz-Negra-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Luz-Negra-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Luz-Negra-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Luz-Negra-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Luz-Negra-2xl.jpg 1600w"></figure></a>
 <figcaption >Luz Negra (Single)</figcaption>
 </figure>
 </td>
 <td style="width: 33.2843%;">
-<figure ><a href="https://macacosdamanchuria.com.br/sangue-e-poeira-single/"><figure class="post__image"><img loading="lazy"  src="https://macacosdamanchuria.com.br/media/posts/4/Sangue-e-Poeira.jpg" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/4/responsive/Sangue-e-Poeira-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Sangue-e-Poeira-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Sangue-e-Poeira-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Sangue-e-Poeira-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Sangue-e-Poeira-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Sangue-e-Poeira-2xl.jpg 1600w"  alt="Macacos da Manchúria - Sangue e Poeira (Single)" width="1024" height="1024"></figure></a>
+<figure ><a href="https://macacosdamanchuria.com.br/sangue-e-poeira-single/"><figure class="post__image"><img loading="lazy"  src="https://macacosdamanchuria.com.br/media/posts/4/Sangue-e-Poeira.jpg" alt="Macacos da Manchúria - Sangue e Poeira (Single)" width="1024" height="1024" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/4/responsive/Sangue-e-Poeira-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Sangue-e-Poeira-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Sangue-e-Poeira-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Sangue-e-Poeira-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Sangue-e-Poeira-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Sangue-e-Poeira-2xl.jpg 1600w"></figure></a>
 <figcaption >Sangue e Poeira (Single)</figcaption>
 </figure>
 </td>
 <td style="width: 33.2889%;">
-<figure ><a href="https://macacosdamanchuria.com.br/toras-ep/"><figure class="post__image"><img loading="lazy"  src="https://macacosdamanchuria.com.br/media/posts/4/Toras.jpg" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/4/responsive/Toras-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Toras-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Toras-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Toras-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Toras-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Toras-2xl.jpg 1600w"  alt="Macacos da Manchúria - Toras (EP)" width="1024" height="1024"></figure></a>
+<figure ><a href="https://macacosdamanchuria.com.br/toras-ep/"><figure class="post__image"><img loading="lazy"  src="https://macacosdamanchuria.com.br/media/posts/4/Toras.jpg" alt="Macacos da Manchúria - Toras (EP)" width="1024" height="1024" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/4/responsive/Toras-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Toras-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Toras-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Toras-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Toras-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/4/responsive/Toras-2xl.jpg 1600w"></figure></a>
 <figcaption >Toras (EP)</figcaption>
 </figure>
 </td>
@@ -324,6 +329,7 @@
         </author>
         <link href="https://macacosdamanchuria.com.br/toras-ep/"/>
         <id>https://macacosdamanchuria.com.br/toras-ep/</id>
+        <media:content url="https://macacosdamanchuria.com.br/media/posts/3/Toras-Hero-Site.jpg" medium="image" />
 
         <updated>2022-09-06T22:32:52-03:00</updated>
             <summary>
@@ -334,10 +340,10 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://macacosdamanchuria.com.br/media/posts/3/Toras-Hero-Site.jpg" alt="" />
+                    <p><img src="https://macacosdamanchuria.com.br/media/posts/3/Toras-Hero-Site.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://macacosdamanchuria.com.br/media/posts/3/Toras.jpg" sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/3/responsive/Toras-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/3/responsive/Toras-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/3/responsive/Toras-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/3/responsive/Toras-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/3/responsive/Toras-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/3/responsive/Toras-2xl.jpg 1600w"  height="1024" width="1024" alt="" />
+      <img loading="lazy" src="https://macacosdamanchuria.com.br/media/posts/3/Toras.jpg" height="1024" width="1024" alt=""  sizes="100vw" srcset="https://macacosdamanchuria.com.br/media/posts/3/responsive/Toras-xs.jpg 300w ,https://macacosdamanchuria.com.br/media/posts/3/responsive/Toras-sm.jpg 480w ,https://macacosdamanchuria.com.br/media/posts/3/responsive/Toras-md.jpg 768w ,https://macacosdamanchuria.com.br/media/posts/3/responsive/Toras-lg.jpg 1024w ,https://macacosdamanchuria.com.br/media/posts/3/responsive/Toras-xl.jpg 1360w ,https://macacosdamanchuria.com.br/media/posts/3/responsive/Toras-2xl.jpg 1600w">
       
     </figure>
 
@@ -390,6 +396,7 @@
         </author>
         <link href="https://macacosdamanchuria.com.br/a-banda/"/>
         <id>https://macacosdamanchuria.com.br/a-banda/</id>
+        <media:content url="https://macacosdamanchuria.com.br/media/posts/1/background.jpg" medium="image" />
 
         <updated>2022-09-07T18:08:24-03:00</updated>
             <summary>
@@ -400,7 +407,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://macacosdamanchuria.com.br/media/posts/1/background.jpg" alt="Macacos da Manchúria - Bessa" />
+                    <p><img src="https://macacosdamanchuria.com.br/media/posts/1/background.jpg" class="type:primaryImage" alt="Macacos da Manchúria - Bessa" /></p>
                 
   <p>
     A banda Macacos da Manchúria foi formada em Fevereiro de 2021 pelos irmãos Henrique Paloschi e Alexandre Paloschi.<br><br>Desde muito tempo, entre um churrasco e outro, ambos se cobravam da ideia de criar um projeto musical.  Em 2020, com a saída de Alexandre da banda Lockfist 669, as conversas se tornaram mais constantes e já com um direcionamento definido, fazer Death/Doom Metal na linha de bandas clássicas como Obituary e Bolt Thrower, mas, cantado em Português.  Alexandre, aproveitando a oportunidade aberta pelo trabalho em home office (culpa do bichinho!), resolveu botar a mão na massa e aprender a tocar guitarra (cansado de compor músicas por mímica).<br><br>Após alguns meses de esforço (aprendendo a tocar guitarra e a utilizar os softwares de composição e gravação) a banda lançou de forma independente, em Abril de 2021, o primeiro trabalho, o EP Toras.  A recepção às composições foi muito boa, apesar da baixa qualidade sonora do EP (culpa do Alexandre).<br><br>Com a divulgação de Toras feita, a banda inicia o processo de composição e gravação do segundo trabalho, o single Sangue e Poeira.  Com os problemas de produção resolvidos, a banda apostou numa sonoridade um pouco mais voltada para o Doom.  Novamente, ótima recepção para a composição, o que levou a banda a arregaçar as mangas e partir com vontade para a montagem do primeiro full-length.<br><br>Em Janeiro de 2022, a banda lança seu primeiro álbum, intitulado Bessa (referência ao livro Abril Despedaçado, de Ismail Kadaré).  São oito composições, em pouco menos de quarenta minutos de música.  Mais rápido, de uma maneira geral, que os singles lançados, ainda assim o álbum prima pelo peso das músicas ao invés de velocidade pura.  Uma bela tijolada na cara.<br>
@@ -410,7 +417,7 @@
     <div class="gallery" data-columns="1">
       <figure class="gallery__item">
       <a href="https://macacosdamanchuria.com.br/media/posts/1/gallery/macacos-da-manchuria.jpg" data-size="1250x1250">
-        <img loading="lazy" src="https://macacosdamanchuria.com.br/media/posts/1/gallery/macacos-da-manchuria-thumbnail.jpg" height="720" width="720" alt="Macacos da Manchúria" />
+        <img loading="lazy" src="https://macacosdamanchuria.com.br/media/posts/1/gallery/macacos-da-manchuria-thumbnail.jpg" height="720" width="720" alt="Macacos da Manchúria" >
       </a>
       <figcaption>Alexandre (esq.) e Henrique (dir.)</figcaption>
     </figure>
